@@ -1,5 +1,8 @@
-## GitFav
+# <p align="center">GitFav</p>
+
 <p align="center">Projeto desenvolvido no curso Explorer da Rocketseat</p>
+
+## <p align="Projeto | Tecnologia"></p>
 
 ![image](https://github.com/Souzasud/GitFav/assets/133075307/7e2c288e-1b45-4f18-917a-6157029f00c1)
 
@@ -8,7 +11,7 @@
 Utilizamos uma API do Github para coletar os dados e aprender a manipulá-los.
 
 ## 🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+>Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
