@@ -2,7 +2,7 @@
 
 <p align="center">Projeto desenvolvido no curso Explorer da Rocketseat</p>
 
-[Tecnologias](https://github.com/Souzasud/GitFav?tab=readme-ov-file#-tecnologias)  |  Projetos
+<p align"center"[Tecnologias](https://github.com/Souzasud/GitFav?tab=readme-ov-file#-tecnologias)  |  [Projetos](https://github.com/Souzasud/GitFav/tree/main?tab=readme-ov-file#-projeto)</p>
 
 ![image](https://github.com/Souzasud/GitFav/assets/133075307/7e2c288e-1b45-4f18-917a-6157029f00c1)
 
